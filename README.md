@@ -57,8 +57,15 @@ Python     ███████████████      75%   |   SQL    �
 
 ## 🎓 Education
 
-**Bachelor of Technology, Computer Science & Engineering (AI & ML)**
-Alliance University
+**Bachelor of Technology, Computer Science & Engineering (Minor: AI & ML)**
+Alliance University, Bengaluru
+
+**Key Coursework:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Machine Learning · Operating Systems
+
+**Self-Study & Active Research:**
+- 📚 Building machine learning models for real-world prediction problems (e.g. stock price forecasting).
+- 📚 Strengthening core programming and DSA skills in C, C++, and Python.
+- 📚 Exploring Microsoft Power Platform and preparing for further cloud/AI certifications.
 
 ---
 
@@ -82,9 +89,11 @@ Alliance University
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/main/metrics.svg)
+## 📈 GitHub Activity
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&theme=tokyonight&hide_border=true)
+![Metrics](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/main/metrics.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/output/github-snake.svg)
 
