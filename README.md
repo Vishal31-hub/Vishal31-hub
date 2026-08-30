@@ -82,11 +82,9 @@ Alliance University
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal31-hub&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/main/metrics.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal31-hub&theme=tokyo-night&hide_border=true)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/output/github-snake.svg)
 
