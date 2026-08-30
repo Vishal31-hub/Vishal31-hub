@@ -86,6 +86,10 @@ Alliance University
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal31-hub&theme=tokyo-night&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/output/github-snake.svg)
+
 ---
 
 ## 🤝 Let's Connect
