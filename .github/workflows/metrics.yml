@@ -19,5 +19,4 @@ jobs:
           user: Vishal31-hub
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_languages: yes
           filename: metrics.svg
