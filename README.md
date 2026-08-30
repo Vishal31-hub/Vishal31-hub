@@ -89,10 +89,6 @@ Alliance University, Bengaluru
 
 ## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-
-![Metrics](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/main/metrics.svg)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal31-hub&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Vishal31-hub/Vishal31-hub/output/github-snake.svg)
